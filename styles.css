@@ -111,7 +111,9 @@ h2{
     border-radius:100%;
     margin-top:5%;
 }
-
+.testimonial-btn{
+    filter:invert(100%)
+}
 /*GALLERY*/
 .grid-container{
     display:grid;
