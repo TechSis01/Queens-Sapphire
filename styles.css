@@ -76,7 +76,7 @@ h2{
     display:grid;
     grid-template-columns: repeat(4,1fr);
     text-align:center;
-    padding:0 0 15% 0;
+    padding:0 0 10% 0;
 }
 .item p{
     color:white;
@@ -91,6 +91,7 @@ h2{
 .feature-img{
     width:90%;
     height:80%;
+    border-radius:10px;
 }
 .vertical-bar{
     height:80%;
@@ -110,9 +111,7 @@ h2{
     border-radius:100%;
     margin-top:5%;
 }
-.testimonial-btn{
-    filter: invert();
-}
+
 /*GALLERY*/
 .grid-container{
     display:grid;
@@ -128,6 +127,7 @@ h2{
 .photos{
     margin-left:10%;
     width:80%;
+    border-radius:10px;
 }
 
 /*JANE'S STORY*/
@@ -205,17 +205,20 @@ input{
         grid-template-columns: repeat(2,1fr);
     }
     .feature-btn{
-        margin-bottom:60%;
+        /*margin-bottom:40%;*/
     }
     .feature-img{
-        width:70%;
-        height:70%;
+        width:80%;
+        height:55%;
     }
     .vertical-bar{
-        height:70%;
+        height:55%;
     }
     .grid-container{
         grid-template-columns: repeat(2, 1fr);
+    }
+    .testimonial-txt{
+        font-size:1.2rem;
     }
     
 }
@@ -224,14 +227,14 @@ input{
         grid-template-columns:1fr;
     }
     .feature-btn{
-        margin-bottom:60%;
+        /*margin-bottom:60%;*/
     }
     .feature-img{
         width:70%;
-        height:70%;
+        height:55%;
     }
     .vertical-bar{
-        height:70%;
+        height:55%;
     }
     .grid-container{
         grid-template-columns:1fr;
