@@ -200,6 +200,9 @@ input{
     .jane-img{
         margin-left:35%;
     }
+    .jane-story{
+        padding:0 10%;
+    }
 }
 
 @media(max-width:769px){
@@ -222,6 +225,10 @@ input{
     .testimonial-txt{
         font-size:1.2rem;
     }
+    .jane-story{
+        font-size:1.2rem;
+        padding:0 10%;
+    }
     
 }
 @media(max-width:480px){
@@ -240,5 +247,9 @@ input{
     }
     .grid-container{
         grid-template-columns:1fr;
+    }
+    .jane-story{
+        font-size: 1.2rem;
+        padding:0 10%;
     }
 }
