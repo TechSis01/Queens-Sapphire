@@ -239,7 +239,7 @@ input{
         grid-template-columns: repeat(2,1fr);
     }
     .feature-btn{
-        /*margin-bottom:40%;*/
+        margin-bottom:10%;
     }
     .feature-img{
         width:80%;
