@@ -161,7 +161,7 @@ h2{
 }
 .jane-img{
     margin-top:10%;
-    width:65%;
+    width:80%;
     margin:0 auto;
     
 }
@@ -287,7 +287,7 @@ input{
         grid-template-columns:1fr;
     }
     .feature-btn{
-        /*margin-bottom:60%;*/
+        margin-bottom:10%;
     }
     .feature-img{
         width:70%;
