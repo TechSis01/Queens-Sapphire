@@ -238,9 +238,9 @@ input{
     .grid-container-1{
         grid-template-columns: repeat(2,1fr);
     }
-    .feature-btn{
+    /*.feature-btn{
         margin-bottom:10%;
-    }
+    }*/
     .feature-img{
         width:80%;
         height:55%;
@@ -286,9 +286,9 @@ input{
     .grid-container-1{
         grid-template-columns:1fr;
     }
-    .feature-btn{
+    /*.feature-btn{
         margin-bottom:10%;
-    }
+    }*/
     .feature-img{
         width:70%;
         height:55%;
