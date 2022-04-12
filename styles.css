@@ -77,7 +77,8 @@ h1{
 
 /*Features*/
 #features{
-    background-color: #432818;;
+    background-color: #432818;
+    padding:0 10%;
 }
 h2{
     text-align: center;
@@ -278,7 +279,7 @@ input{
 
     
     
-}
+
 @media(max-width:480px){
     body{
         width:100%;
