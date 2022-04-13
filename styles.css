@@ -121,7 +121,7 @@ h2{
     padding:0 0 5% 0%;
     font-family: 'Open Sans', sans-serif;
     font-style:italic;
-    font-weight:700;
+    font-weight:400;
     background-color:#fcefb4;
 }
 .client{
@@ -256,7 +256,7 @@ input{
         grid-template-columns: repeat(2, 1fr);
     }
     .testimonial-txt{
-        font-size:1.2rem;
+        font-size:1.1rem;
     }
     .jane-story{
         font-size:1.2rem;
@@ -304,7 +304,7 @@ input{
         grid-template-columns:1fr;
     }
     .jane-story{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         
     }
     #testimonials{
