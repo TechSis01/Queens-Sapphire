@@ -14,7 +14,7 @@ body{
 /*Navigation*/
 .navbar{
     background-color:#fcefb4;
-    font-size:1.5rem;
+    /*font-size:1.5rem;*/
 
 }
 .navbar-brand{
@@ -279,9 +279,8 @@ input{
         padding:5%;
         font-size:2.5rem;
     }
-    .navbar-brand{
-        font-size:1.5rem;
-    }
+    
+    
 }
 
     
@@ -324,7 +323,5 @@ input{
         padding:5%;
         font-size:2.0rem;
     }
-    .navbar-brand{
-        font-size:1.5rem;
-    }
+    
 }
