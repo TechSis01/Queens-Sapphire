@@ -1,8 +1,6 @@
 html{
     font-size:62.5%;
     width:100%;
-    
-    
     overflow-x:hidden;
     
 }
@@ -41,12 +39,13 @@ h1{
     font-size:3.5rem;
 }
 #header{
-    padding:5% 8%;
+    /*padding:5% 8%;*/
     text-align:center;
     background-color:#fcefb4;
 }
 .header-txt{
     padding-top:10%;
+    padding-right:8%;
     line-height:2;
 }
 .header-img{
